@@ -1,0 +1,26 @@
+.image-info {
+    margin-left: 30px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.image-info img {
+    width: 300px;
+    height: 300px;
+}
+
+.analysis button {
+    padding: 15px 15px;
+    font-size: 18px;  
+    margin-bottom: 70px; 
+}
+
+.analysis {
+    margin-left: 80px;
+    font-size: 24px;
+}
+
+.disabled {
+    opacity: 0.4;
+}

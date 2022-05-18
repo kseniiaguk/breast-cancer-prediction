@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto';
+    color:rgb(4, 0, 8);
+}
+
+button, .btn-upload {
+    background-color: transparent;
+    border: solid 2px rgb(34, 28, 88);
+    border-radius: 6px;
+    font-weight: 400;
+    color: rgb(34, 28, 88)
+}
+
+.central-part {
+    display: flex;
+    flex-direction: row;
+}

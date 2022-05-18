@@ -1,0 +1,57 @@
+{
+    "name": "mammo-interface",
+    "version": "0.1.0",
+    "private": true,
+    "engines": {
+      "node": "16.x"
+    },
+    "dependencies": {
+      "@ckeditor/ckeditor5-build-classic": "^29.0.0",
+      "@ckeditor/ckeditor5-react": "^3.0.2",
+      "@ckeditor/ckeditor5-word-count": "^29.0.0",
+      "@react-pdf/renderer": "^2.0.19",
+      "@testing-library/jest-dom": "^5.11.4",
+      "@testing-library/react": "^11.1.0",
+      "@testing-library/user-event": "^12.1.10",
+      "axios": "^0.21.1",
+      "i18next": "^20.2.4",
+      "moment": "^2.29.1",
+      "pdfjs": "^2.4.6",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-google-autocomplete": "^2.4.0",
+      "react-i18next": "^11.8.15",
+      "react-icomoon": "^2.2.4",
+      "react-modal": "^3.13.1",
+      "react-read-pdf": "^2.0.9",
+      "react-router-dom": "^5.2.0",
+      "react-scripts": "4.0.3",
+      "react-tooltip": "^4.2.21",
+      "web-vitals": "^1.0.1"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+  

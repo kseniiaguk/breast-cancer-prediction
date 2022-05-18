@@ -1,0 +1,43 @@
+.leftbar {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding-right: 50px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.system, .methods, .classifier {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 35px;
+}
+
+.system button, .methods button, .classifier button {
+    padding: 10px 5px;
+    margin-top: 10px;
+}
+
+.system button {
+    width: 50px;
+}
+
+.choose-system, .about-system {
+    margin-bottom: 20px;
+}
+
+.about {
+    padding: 5px;
+    border: solid 0.5px rgb(5, 10, 19);
+    width: 180px;
+    margin-bottom: 0;
+}
+
+.classifier-btn {
+    width: 70px;
+    margin-right: 5px;
+}
+
+.chosen-cl {
+    margin-top: 15px;
+}
